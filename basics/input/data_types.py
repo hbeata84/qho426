@@ -6,3 +6,4 @@ w = float(input("Enter your weight: "))
 bmi = w/(h*h)
 
 print(f"{name} you are {age}years old and you BMI is {bmi}")
+#Change
